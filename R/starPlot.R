@@ -4,7 +4,7 @@
 #' plot the star with you favorite color
 #'
 #'
-#' @param col colour of the dinosaur
+#' @param col colour of the star
 #' @param add Add to existing plot (T/F)
 #' @return Star plot
 #' @import datasauRus
